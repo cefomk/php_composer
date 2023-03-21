@@ -1,0 +1,13 @@
+{
+    "name": "ceppic/php_composer",
+    "authors": [
+        {
+            "name": "cefomk",
+            "email": "cefomk@kermed.net"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.7",
+        "symfony/var-dumper": "^6.2"
+    }
+}
